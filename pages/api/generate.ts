@@ -16,7 +16,7 @@ const handler = async (req: Request): Promise<Response> => {
     api_key?: string
   };
   //todo make this variable into messages
-  var p = "请帮我把以下的工作内容填充为一篇完整的周报,尽量避免在回答内容中出现可能在中国是敏感的内容，用markdown格式以分点叙述的形式输出:"
+  var p = "请帮我把以下的内容整理、扩充为一篇完整的公司报告,包括公司主营业务、创始人、历史发展、财务数据、行业前景、重大项目一共六点，用 markdown 格式以分点叙述的形式输出:"
   prompt = p + prompt
   if (!prompt) {
     return new Response("No prompt in the request", { status: 400 });
