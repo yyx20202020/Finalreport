@@ -6,26 +6,26 @@ export default function Footer() {
       <div>
         Powered by{" "}
         <a
-          href="https://openai.com/"
+          href="https://www.gptplus.wiki/"
           target="_blank"
           rel="noreferrer"
           className="font-bold hover:underline transition underline-offset-2"
         >
-          OpenAI{" "}
+          chatAI{" "}
         </a>
         and{" "}
         <a
-          href="https://vercel.com/"
+          href="https://www.gptplus.wiki/"
           target="_blank"
           rel="noreferrer"
           className="font-bold hover:underline transition underline-offset-2"
         >
-          Vercel Edge Functions.
+          牛牛（了解更多）.
         </a>
       </div>
       <div className="flex space-x-4 pb-4 sm:pb-0">
         <Link
-          href="https://github.com/guaguaguaxia/weekly_report"
+          href="https://www.gptplus.wiki/"
           className="group"
           aria-label="TaxPal on GitHub"
         >
