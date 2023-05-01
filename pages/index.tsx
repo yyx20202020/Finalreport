@@ -203,7 +203,7 @@ const Home: NextPage = () => {
 
 
             <br/>
-            <p className="text-slate-500" style={{textAlign: "center"}}>由于费用过高，本站一分钟内仅接受 20 次请求，迟迟不能生成报告是因为暂时限流，请收藏此网站后在低峰期使用。有任何问题请联系我的微信xuewangke2017，我会一一回复。</p>
+            <p className="text-slate-500" style={{textAlign: "center"}}>收藏本站，随时使用。有任何问题可联系作者邮箱cyqlhy@163.com </p>
 
           </div>
         </div>
