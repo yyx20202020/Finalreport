@@ -6,7 +6,7 @@ export default function Footer() {
       <div>
         Powered by{" "}
         <a
-          href="https://www.gptplus.wiki/"
+          href="https://www.aiplus.wiki/"
           target="_blank"
           rel="noreferrer"
           className="font-bold hover:underline transition underline-offset-2"
@@ -15,17 +15,17 @@ export default function Footer() {
         </a>
         and{" "}
         <a
-          href="https://www.gptplus.wiki/"
+          href="https://www.aiplus.wiki/"
           target="_blank"
           rel="noreferrer"
           className="font-bold hover:underline transition underline-offset-2"
         >
-          牛牛（了解更多）.
+          尼尼（了解更多）.
         </a>
       </div>
       <div className="flex space-x-4 pb-4 sm:pb-0">
         <Link
-          href="https://www.gptplus.wiki/"
+          href="https://www.aiplus.wiki/"
           className="group"
           aria-label="TaxPal on GitHub"
         >
